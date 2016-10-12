@@ -1,0 +1,662 @@
+Log file opened.
+Starting up...
+Zip file: archive.zip
+Resolution: 192x220
+Adjusted Resolution: 190x220
+Reflection texture resolution: 320x240
+Fountain water level: 65.619003
+Reflection debugging disabled.
+.X File #1: final_mesh_binary_compressed.x
+'Reset path on path switch' enabled.
+Camera path (default): AmbCamera.bth
+Camera path (AA): AntiAliasCam.bth
+Camera path (AF): AnisoCam.bth
+Camera path (TAA): AntiAliasCam.bth
+Camera path (AAF): AnisoCam.bth
+Camera path (AAA): AdaptiveAACam.bth
+Camera path (CAI): AmbCamera.bth
+Camera path (MIPLOD): MipMapCam.bth
+Camera path (GI): AmbCamera.bth
+Camera path (default) FOV: 55.000000
+Camera path (AA) FOV: 55.000000
+Camera path AF) FOV: 55.000000
+Camera path (TAA) FOV: 55.000000
+Camera path (AAF) FOV: 55.000000
+Camera path (AAA) FOV: 55.000000
+Camera path (CAI) FOV: 55.000000
+Camera path (MIPLOD) FOV: 55.000000
+Camera path (GI) FOV: 55.000000
+Mipmap debugging disabled.
+Base debugging mipmap (1024x1024): texbase1024.bmp
+Debugging mipmap (1024x1024): tex1024.bmp
+Debugging mipmap (512x512): tex512.bmp
+Debugging mipmap (256x256): tex256.bmp
+Debugging mipmap (128x128): tex128.bmp
+Debugging mipmap (64x64): tex64.bmp
+Debugging mipmap (32x32): tex32.bmp
+Debugging mipmap (16x16): tex16.bmp
+Debugging mipmap (8x8): tex8.bmp
+Info: Resource 'AntiAliasCam.bth' (AntiAliasCam.bth) already added.
+Info: Resource 'AnisoCam.bth' (AnisoCam.bth) already added.
+Info: Resource 'AmbCamera.bth' (AmbCamera.bth) already added.
+Info: Resource 'AmbCamera.bth' (AmbCamera.bth) already added.
+Info: All camera paths loaded successfully.
+Initializing window...
+RegisterClassEx() successful.
+SetRect() successful.
+AdjustWindowRect() successful.
+CreateWindow() successful.
+...Initialization of window successful.
+Initializing window...
+RegisterClassEx() successful.
+SetRect() successful.
+AdjustWindowRect() successful.
+CreateWindow() successful.
+...Initialization of window successful.
+Initializing window...
+RegisterClassEx() successful.
+SetRect() successful.
+AdjustWindowRect() successful.
+CreateWindow() successful.
+...Initialization of window successful.
+...Startup() successful.
+ACE PreviewWindow Handle:  66604
+ACE Window Handle:  263124
+ACE Window Handle:  0
+WinMain -> Creating Left Window
+CCPCCCComm::GetSettingsFromCOM() -> WARNING: (ASD setting) Unexpected COM value received.
+CCPCCCComm::GetSettingsFromCOM() -> Current Data via COM
+CCPCCCComm::GetSettingsFromCOM() -> AntiAliasing: 0
+CCPCCCComm::GetSettingsFromCOM() -> Anisotropy: 1
+CCPCCCComm::GetSettingsFromCOM() -> TemporalAA: 0
+CCPCCCComm::GetSettingsFromCOM() -> AdvancedAF: 0
+CCPCCCComm::GetSettingsFromCOM() -> CatAI: 1
+CCPCCCComm::GetSettingsFromCOM() -> MipmapDetail: 3
+CCPCCCComm::GetSettingsFromCOM() -> GeometryInstancing: 1
+CCPCCCComm::GetSettingsFromCOM() -> AdaptiveAA: 0
+CCPCCCComm::GetSettingsFromCOM() -> ASD: 1
+CCPCCCComm::GetSettingsFromCOM() -> ASE: 0
+MSAA chosen to be disabled.
+Info: Resource 'color_and_lightmap_and_normalmap.fx' (color_and_lightmap_and_normalmap.fx) already added.
+Info: Resource 'color_and_lightmap_and_normalmap.fx' (color_and_lightmap_and_normalmap.fx) already added.
+Info: Resource 'color_and_lightmap_and_normalmap.fx' (color_and_lightmap_and_normalmap.fx) already added.
+Info: Resource 'color_and_lightmap_and_normalmap.fx' (color_and_lightmap_and_normalmap.fx) already added.
+Info: Resource 'color_and_lightmap_and_normalmap.fx' (color_and_lightmap_and_normalmap.fx) already added.
+Info: Resource 'color_and_lightmap_and_normalmap.fx' (color_and_lightmap_and_normalmap.fx) already added.
+Info: Resource 'color_and_lightmap_and_normalmap.fx' (color_and_lightmap_and_normalmap.fx) already added.
+Info: Resource 'color_and_lightmap.fx' (color_and_lightmap.fx) already added.
+Info: Resource 'color_and_lightmap_and_normalmap.fx' (color_and_lightmap_and_normalmap.fx) already added.
+Info: Resource 'color_and_lightmap_and_normalmap.fx' (color_and_lightmap_and_normalmap.fx) already added.
+Info: Resource 'wroughtIron_C.dds' (wroughtIron_C.dds) already added.
+Info: Resource 'courtyard_LM.dds' (courtyard_LM.dds) already added.
+Info: Resource 'courtyard_LM.dds' (courtyard_LM.dds) already added.
+Info: Resource 'courtyard_LM.dds' (courtyard_LM.dds) already added.
+Info: Resource 'courtyard_LM.dds' (courtyard_LM.dds) already added.
+Info: Resource 'courtyard_LM.dds' (courtyard_LM.dds) already added.
+Info: Resource 'courtyard_LM.dds' (courtyard_LM.dds) already added.
+Info: Resource 'courtyard_LM.dds' (courtyard_LM.dds) already added.
+Info: Resource 'courtyard_LM.dds' (courtyard_LM.dds) already added.
+Info: Resource 'courtyard_LM.dds' (courtyard_LM.dds) already added.
+Info: Resource 'courtyard_LM.dds' (courtyard_LM.dds) already added.
+Info: Resource 'courtyard_LM.dds' (courtyard_LM.dds) already added.
+Info: Resource 'courtyard_LM.dds' (courtyard_LM.dds) already added.
+Info: Resource 'courtyard_LM.dds' (courtyard_LM.dds) already added.
+WinMain -> Creating Right Window
+CCPCCCComm::GetSettingsFromCOM() -> WARNING: (ASD setting) Unexpected COM value received.
+CCPCCCComm::GetSettingsFromCOM() -> Requested Data via COM
+CCPCCCComm::GetSettingsFromCOM() -> AntiAliasing: 0
+CCPCCCComm::GetSettingsFromCOM() -> Anisotropy: 1
+CCPCCCComm::GetSettingsFromCOM() -> TemporalAA: 0
+CCPCCCComm::GetSettingsFromCOM() -> AdvancedAF: 0
+CCPCCCComm::GetSettingsFromCOM() -> CatAI: 1
+CCPCCCComm::GetSettingsFromCOM() -> MipmapDetail: 3
+CCPCCCComm::GetSettingsFromCOM() -> GeometryInstancing: 1
+CCPCCCComm::GetSettingsFromCOM() -> AdaptiveAA: 0
+CCPCCCComm::GetSettingsFromCOM() -> ASD: 1
+CCPCCCComm::GetSettingsFromCOM() -> ASE: 0
+MSAA chosen to be disabled.
+Info: Resource 'color_and_lightmap_and_normalmap.fx' (color_and_lightmap_and_normalmap.fx) already added.
+Info: Resource 'color_and_lightmap_and_normalmap.fx' (color_and_lightmap_and_normalmap.fx) already added.
+Info: Resource 'color_and_lightmap_and_normalmap.fx' (color_and_lightmap_and_normalmap.fx) already added.
+Info: Resource 'color_and_lightmap_and_normalmap.fx' (color_and_lightmap_and_normalmap.fx) already added.
+Info: Resource 'color_and_lightmap_and_normalmap.fx' (color_and_lightmap_and_normalmap.fx) already added.
+Info: Resource 'color_and_lightmap_and_normalmap.fx' (color_and_lightmap_and_normalmap.fx) already added.
+Info: Resource 'color_and_lightmap_and_normalmap.fx' (color_and_lightmap_and_normalmap.fx) already added.
+Info: Resource 'color_and_lightmap.fx' (color_and_lightmap.fx) already added.
+Info: Resource 'color_and_lightmap_and_normalmap.fx' (color_and_lightmap_and_normalmap.fx) already added.
+Info: Resource 'color_and_lightmap_and_normalmap.fx' (color_and_lightmap_and_normalmap.fx) already added.
+Info: Resource 'wroughtIron_C.dds' (wroughtIron_C.dds) already added.
+Info: Resource 'courtyard_LM.dds' (courtyard_LM.dds) already added.
+Info: Resource 'courtyard_LM.dds' (courtyard_LM.dds) already added.
+Info: Resource 'courtyard_LM.dds' (courtyard_LM.dds) already added.
+Info: Resource 'courtyard_LM.dds' (courtyard_LM.dds) already added.
+Info: Resource 'courtyard_LM.dds' (courtyard_LM.dds) already added.
+Info: Resource 'courtyard_LM.dds' (courtyard_LM.dds) already added.
+Info: Resource 'courtyard_LM.dds' (courtyard_LM.dds) already added.
+Info: Resource 'courtyard_LM.dds' (courtyard_LM.dds) already added.
+Info: Resource 'courtyard_LM.dds' (courtyard_LM.dds) already added.
+Info: Resource 'courtyard_LM.dds' (courtyard_LM.dds) already added.
+Info: Resource 'courtyard_LM.dds' (courtyard_LM.dds) already added.
+Info: Resource 'courtyard_LM.dds' (courtyard_LM.dds) already added.
+Info: Resource 'courtyard_LM.dds' (courtyard_LM.dds) already added.
+CCC event: ParentWndProc -> WM_ASPECT_CHANGE
+CCC event: ParentWndProc -> WM_UPDATE_SETTINGS!
+CCPCCCComm::GetSettingsFromCOM() -> WARNING: (ASD setting) Unexpected COM value received.
+CCPCCCComm::GetSettingsFromCOM() -> Current Data via COM
+CCPCCCComm::GetSettingsFromCOM() -> AntiAliasing: 0
+CCPCCCComm::GetSettingsFromCOM() -> Anisotropy: 1
+CCPCCCComm::GetSettingsFromCOM() -> TemporalAA: 0
+CCPCCCComm::GetSettingsFromCOM() -> AdvancedAF: 0
+CCPCCCComm::GetSettingsFromCOM() -> CatAI: 1
+CCPCCCComm::GetSettingsFromCOM() -> MipmapDetail: 3
+CCPCCCComm::GetSettingsFromCOM() -> GeometryInstancing: 1
+CCPCCCComm::GetSettingsFromCOM() -> AdaptiveAA: 0
+CCPCCCComm::GetSettingsFromCOM() -> ASD: 1
+CCPCCCComm::GetSettingsFromCOM() -> ASE: 0
+COM event handlers invoked successfully.
+CCPCCCComm::GetSettingsFromCOM() -> WARNING: (ASD setting) Unexpected COM value received.
+CCPCCCComm::GetSettingsFromCOM() -> Requested Data via COM
+CCPCCCComm::GetSettingsFromCOM() -> AntiAliasing: 2
+CCPCCCComm::GetSettingsFromCOM() -> Anisotropy: 8
+CCPCCCComm::GetSettingsFromCOM() -> TemporalAA: 0
+CCPCCCComm::GetSettingsFromCOM() -> AdvancedAF: 0
+CCPCCCComm::GetSettingsFromCOM() -> CatAI: 1
+CCPCCCComm::GetSettingsFromCOM() -> MipmapDetail: 3
+CCPCCCComm::GetSettingsFromCOM() -> GeometryInstancing: 1
+CCPCCCComm::GetSettingsFromCOM() -> AdaptiveAA: 0
+CCPCCCComm::GetSettingsFromCOM() -> ASD: 1
+CCPCCCComm::GetSettingsFromCOM() -> ASE: 0
+2X MSAA chosen to be enabled.
+Max 2X MSAA quality value = 0.
+COM event handlers invoked successfully.
+CCC event: ParentWndProc -> WM_ASPECT_CHANGE
+CCC event: ParentWndProc -> WM_UPDATE_SETTINGS!
+CCPCCCComm::GetSettingsFromCOM() -> WARNING: (ASD setting) Unexpected COM value received.
+CCPCCCComm::GetSettingsFromCOM() -> Current Data via COM
+CCPCCCComm::GetSettingsFromCOM() -> AntiAliasing: 0
+CCPCCCComm::GetSettingsFromCOM() -> Anisotropy: 1
+CCPCCCComm::GetSettingsFromCOM() -> TemporalAA: 0
+CCPCCCComm::GetSettingsFromCOM() -> AdvancedAF: 0
+CCPCCCComm::GetSettingsFromCOM() -> CatAI: 1
+CCPCCCComm::GetSettingsFromCOM() -> MipmapDetail: 3
+CCPCCCComm::GetSettingsFromCOM() -> GeometryInstancing: 1
+CCPCCCComm::GetSettingsFromCOM() -> AdaptiveAA: 0
+CCPCCCComm::GetSettingsFromCOM() -> ASD: 1
+CCPCCCComm::GetSettingsFromCOM() -> ASE: 0
+COM event handlers invoked successfully.
+CCPCCCComm::GetSettingsFromCOM() -> WARNING: (ASD setting) Unexpected COM value received.
+CCPCCCComm::GetSettingsFromCOM() -> Requested Data via COM
+CCPCCCComm::GetSettingsFromCOM() -> AntiAliasing: 0
+CCPCCCComm::GetSettingsFromCOM() -> Anisotropy: 1
+CCPCCCComm::GetSettingsFromCOM() -> TemporalAA: 0
+CCPCCCComm::GetSettingsFromCOM() -> AdvancedAF: 0
+CCPCCCComm::GetSettingsFromCOM() -> CatAI: 1
+CCPCCCComm::GetSettingsFromCOM() -> MipmapDetail: 3
+CCPCCCComm::GetSettingsFromCOM() -> GeometryInstancing: 1
+CCPCCCComm::GetSettingsFromCOM() -> AdaptiveAA: 0
+CCPCCCComm::GetSettingsFromCOM() -> ASD: 1
+CCPCCCComm::GetSettingsFromCOM() -> ASE: 0
+MSAA chosen to be disabled.
+COM event handlers invoked successfully.
+CCC event: ParentWndProc -> WM_ASPECT_CHANGE
+CCC event: ParentWndProc -> WM_UPDATE_SETTINGS!
+CCPCCCComm::GetSettingsFromCOM() -> WARNING: (ASD setting) Unexpected COM value received.
+CCPCCCComm::GetSettingsFromCOM() -> Current Data via COM
+CCPCCCComm::GetSettingsFromCOM() -> AntiAliasing: 0
+CCPCCCComm::GetSettingsFromCOM() -> Anisotropy: 1
+CCPCCCComm::GetSettingsFromCOM() -> TemporalAA: 0
+CCPCCCComm::GetSettingsFromCOM() -> AdvancedAF: 0
+CCPCCCComm::GetSettingsFromCOM() -> CatAI: 1
+CCPCCCComm::GetSettingsFromCOM() -> MipmapDetail: 3
+CCPCCCComm::GetSettingsFromCOM() -> GeometryInstancing: 1
+CCPCCCComm::GetSettingsFromCOM() -> AdaptiveAA: 0
+CCPCCCComm::GetSettingsFromCOM() -> ASD: 1
+CCPCCCComm::GetSettingsFromCOM() -> ASE: 0
+COM event handlers invoked successfully.
+CCPCCCComm::GetSettingsFromCOM() -> WARNING: (ASD setting) Unexpected COM value received.
+CCPCCCComm::GetSettingsFromCOM() -> Requested Data via COM
+CCPCCCComm::GetSettingsFromCOM() -> AntiAliasing: 0
+CCPCCCComm::GetSettingsFromCOM() -> Anisotropy: 1
+CCPCCCComm::GetSettingsFromCOM() -> TemporalAA: 0
+CCPCCCComm::GetSettingsFromCOM() -> AdvancedAF: 0
+CCPCCCComm::GetSettingsFromCOM() -> CatAI: 2
+CCPCCCComm::GetSettingsFromCOM() -> MipmapDetail: 2
+CCPCCCComm::GetSettingsFromCOM() -> GeometryInstancing: 1
+CCPCCCComm::GetSettingsFromCOM() -> AdaptiveAA: 0
+CCPCCCComm::GetSettingsFromCOM() -> ASD: 1
+CCPCCCComm::GetSettingsFromCOM() -> ASE: 0
+Info: Resource 'wroughtIron_C.dds' (wroughtIron_C.dds) already added.
+Info: Resource 'courtyard_LM.dds' (courtyard_LM.dds) already added.
+Info: Resource 'courtyard_LM.dds' (courtyard_LM.dds) already added.
+Info: Resource 'courtyard_LM.dds' (courtyard_LM.dds) already added.
+Info: Resource 'courtyard_LM.dds' (courtyard_LM.dds) already added.
+Info: Resource 'courtyard_LM.dds' (courtyard_LM.dds) already added.
+Info: Resource 'courtyard_LM.dds' (courtyard_LM.dds) already added.
+Info: Resource 'courtyard_LM.dds' (courtyard_LM.dds) already added.
+Info: Resource 'courtyard_LM.dds' (courtyard_LM.dds) already added.
+Info: Resource 'courtyard_LM.dds' (courtyard_LM.dds) already added.
+Info: Resource 'courtyard_LM.dds' (courtyard_LM.dds) already added.
+Info: Resource 'courtyard_LM.dds' (courtyard_LM.dds) already added.
+Info: Resource 'courtyard_LM.dds' (courtyard_LM.dds) already added.
+Info: Resource 'courtyard_LM.dds' (courtyard_LM.dds) already added.
+COM event handlers invoked successfully.
+CCC event: ParentWndProc -> WM_ASPECT_CHANGE
+CCC event: ParentWndProc -> WM_UPDATE_SETTINGS!
+CCPCCCComm::GetSettingsFromCOM() -> WARNING: (ASD setting) Unexpected COM value received.
+CCPCCCComm::GetSettingsFromCOM() -> Current Data via COM
+CCPCCCComm::GetSettingsFromCOM() -> AntiAliasing: 0
+CCPCCCComm::GetSettingsFromCOM() -> Anisotropy: 1
+CCPCCCComm::GetSettingsFromCOM() -> TemporalAA: 0
+CCPCCCComm::GetSettingsFromCOM() -> AdvancedAF: 0
+CCPCCCComm::GetSettingsFromCOM() -> CatAI: 1
+CCPCCCComm::GetSettingsFromCOM() -> MipmapDetail: 3
+CCPCCCComm::GetSettingsFromCOM() -> GeometryInstancing: 1
+CCPCCCComm::GetSettingsFromCOM() -> AdaptiveAA: 0
+CCPCCCComm::GetSettingsFromCOM() -> ASD: 1
+CCPCCCComm::GetSettingsFromCOM() -> ASE: 0
+COM event handlers invoked successfully.
+CCPCCCComm::GetSettingsFromCOM() -> WARNING: (ASD setting) Unexpected COM value received.
+CCPCCCComm::GetSettingsFromCOM() -> Requested Data via COM
+CCPCCCComm::GetSettingsFromCOM() -> AntiAliasing: 0
+CCPCCCComm::GetSettingsFromCOM() -> Anisotropy: 1
+CCPCCCComm::GetSettingsFromCOM() -> TemporalAA: 0
+CCPCCCComm::GetSettingsFromCOM() -> AdvancedAF: 0
+CCPCCCComm::GetSettingsFromCOM() -> CatAI: 2
+CCPCCCComm::GetSettingsFromCOM() -> MipmapDetail: 1
+CCPCCCComm::GetSettingsFromCOM() -> GeometryInstancing: 1
+CCPCCCComm::GetSettingsFromCOM() -> AdaptiveAA: 0
+CCPCCCComm::GetSettingsFromCOM() -> ASD: 1
+CCPCCCComm::GetSettingsFromCOM() -> ASE: 0
+COM event handlers invoked successfully.
+CCC event: ParentWndProc -> WM_ASPECT_CHANGE
+CCC event: ParentWndProc -> WM_UPDATE_SETTINGS!
+CCPCCCComm::GetSettingsFromCOM() -> WARNING: (ASD setting) Unexpected COM value received.
+CCPCCCComm::GetSettingsFromCOM() -> Current Data via COM
+CCPCCCComm::GetSettingsFromCOM() -> AntiAliasing: 0
+CCPCCCComm::GetSettingsFromCOM() -> Anisotropy: 1
+CCPCCCComm::GetSettingsFromCOM() -> TemporalAA: 0
+CCPCCCComm::GetSettingsFromCOM() -> AdvancedAF: 0
+CCPCCCComm::GetSettingsFromCOM() -> CatAI: 1
+CCPCCCComm::GetSettingsFromCOM() -> MipmapDetail: 3
+CCPCCCComm::GetSettingsFromCOM() -> GeometryInstancing: 1
+CCPCCCComm::GetSettingsFromCOM() -> AdaptiveAA: 0
+CCPCCCComm::GetSettingsFromCOM() -> ASD: 1
+CCPCCCComm::GetSettingsFromCOM() -> ASE: 0
+COM event handlers invoked successfully.
+CCPCCCComm::GetSettingsFromCOM() -> WARNING: (ASD setting) Unexpected COM value received.
+CCPCCCComm::GetSettingsFromCOM() -> Requested Data via COM
+CCPCCCComm::GetSettingsFromCOM() -> AntiAliasing: 0
+CCPCCCComm::GetSettingsFromCOM() -> Anisotropy: 1
+CCPCCCComm::GetSettingsFromCOM() -> TemporalAA: 0
+CCPCCCComm::GetSettingsFromCOM() -> AdvancedAF: 0
+CCPCCCComm::GetSettingsFromCOM() -> CatAI: 2
+CCPCCCComm::GetSettingsFromCOM() -> MipmapDetail: 2
+CCPCCCComm::GetSettingsFromCOM() -> GeometryInstancing: 1
+CCPCCCComm::GetSettingsFromCOM() -> AdaptiveAA: 0
+CCPCCCComm::GetSettingsFromCOM() -> ASD: 1
+CCPCCCComm::GetSettingsFromCOM() -> ASE: 0
+COM event handlers invoked successfully.
+CCC event: ParentWndProc -> WM_ASPECT_CHANGE
+CCC event: ParentWndProc -> WM_UPDATE_SETTINGS!
+CCPCCCComm::GetSettingsFromCOM() -> WARNING: (ASD setting) Unexpected COM value received.
+CCPCCCComm::GetSettingsFromCOM() -> Current Data via COM
+CCPCCCComm::GetSettingsFromCOM() -> AntiAliasing: 0
+CCPCCCComm::GetSettingsFromCOM() -> Anisotropy: 1
+CCPCCCComm::GetSettingsFromCOM() -> TemporalAA: 0
+CCPCCCComm::GetSettingsFromCOM() -> AdvancedAF: 0
+CCPCCCComm::GetSettingsFromCOM() -> CatAI: 1
+CCPCCCComm::GetSettingsFromCOM() -> MipmapDetail: 3
+CCPCCCComm::GetSettingsFromCOM() -> GeometryInstancing: 1
+CCPCCCComm::GetSettingsFromCOM() -> AdaptiveAA: 0
+CCPCCCComm::GetSettingsFromCOM() -> ASD: 1
+CCPCCCComm::GetSettingsFromCOM() -> ASE: 0
+COM event handlers invoked successfully.
+CCPCCCComm::GetSettingsFromCOM() -> WARNING: (ASD setting) Unexpected COM value received.
+CCPCCCComm::GetSettingsFromCOM() -> Requested Data via COM
+CCPCCCComm::GetSettingsFromCOM() -> AntiAliasing: 0
+CCPCCCComm::GetSettingsFromCOM() -> Anisotropy: 1
+CCPCCCComm::GetSettingsFromCOM() -> TemporalAA: 0
+CCPCCCComm::GetSettingsFromCOM() -> AdvancedAF: 0
+CCPCCCComm::GetSettingsFromCOM() -> CatAI: 1
+CCPCCCComm::GetSettingsFromCOM() -> MipmapDetail: 3
+CCPCCCComm::GetSettingsFromCOM() -> GeometryInstancing: 1
+CCPCCCComm::GetSettingsFromCOM() -> AdaptiveAA: 0
+CCPCCCComm::GetSettingsFromCOM() -> ASD: 1
+CCPCCCComm::GetSettingsFromCOM() -> ASE: 0
+Info: Resource 'wroughtIron_C.dds' (wroughtIron_C.dds) already added.
+Info: Resource 'courtyard_LM.dds' (courtyard_LM.dds) already added.
+Info: Resource 'courtyard_LM.dds' (courtyard_LM.dds) already added.
+Info: Resource 'courtyard_LM.dds' (courtyard_LM.dds) already added.
+Info: Resource 'courtyard_LM.dds' (courtyard_LM.dds) already added.
+Info: Resource 'courtyard_LM.dds' (courtyard_LM.dds) already added.
+Info: Resource 'courtyard_LM.dds' (courtyard_LM.dds) already added.
+Info: Resource 'courtyard_LM.dds' (courtyard_LM.dds) already added.
+Info: Resource 'courtyard_LM.dds' (courtyard_LM.dds) already added.
+Info: Resource 'courtyard_LM.dds' (courtyard_LM.dds) already added.
+Info: Resource 'courtyard_LM.dds' (courtyard_LM.dds) already added.
+Info: Resource 'courtyard_LM.dds' (courtyard_LM.dds) already added.
+Info: Resource 'courtyard_LM.dds' (courtyard_LM.dds) already added.
+Info: Resource 'courtyard_LM.dds' (courtyard_LM.dds) already added.
+COM event handlers invoked successfully.
+CCC event: ParentWndProc -> WM_ASPECT_CHANGE
+CCC event: ParentWndProc -> WM_UPDATE_SETTINGS!
+CCPCCCComm::GetSettingsFromCOM() -> WARNING: (ASD setting) Unexpected COM value received.
+CCPCCCComm::GetSettingsFromCOM() -> Current Data via COM
+CCPCCCComm::GetSettingsFromCOM() -> AntiAliasing: 0
+CCPCCCComm::GetSettingsFromCOM() -> Anisotropy: 1
+CCPCCCComm::GetSettingsFromCOM() -> TemporalAA: 0
+CCPCCCComm::GetSettingsFromCOM() -> AdvancedAF: 0
+CCPCCCComm::GetSettingsFromCOM() -> CatAI: 1
+CCPCCCComm::GetSettingsFromCOM() -> MipmapDetail: 3
+CCPCCCComm::GetSettingsFromCOM() -> GeometryInstancing: 1
+CCPCCCComm::GetSettingsFromCOM() -> AdaptiveAA: 0
+CCPCCCComm::GetSettingsFromCOM() -> ASD: 1
+CCPCCCComm::GetSettingsFromCOM() -> ASE: 0
+COM event handlers invoked successfully.
+CCPCCCComm::GetSettingsFromCOM() -> WARNING: (ASD setting) Unexpected COM value received.
+CCPCCCComm::GetSettingsFromCOM() -> Requested Data via COM
+CCPCCCComm::GetSettingsFromCOM() -> AntiAliasing: 2
+CCPCCCComm::GetSettingsFromCOM() -> Anisotropy: 8
+CCPCCCComm::GetSettingsFromCOM() -> TemporalAA: 0
+CCPCCCComm::GetSettingsFromCOM() -> AdvancedAF: 0
+CCPCCCComm::GetSettingsFromCOM() -> CatAI: 1
+CCPCCCComm::GetSettingsFromCOM() -> MipmapDetail: 3
+CCPCCCComm::GetSettingsFromCOM() -> GeometryInstancing: 1
+CCPCCCComm::GetSettingsFromCOM() -> AdaptiveAA: 0
+CCPCCCComm::GetSettingsFromCOM() -> ASD: 1
+CCPCCCComm::GetSettingsFromCOM() -> ASE: 0
+2X MSAA chosen to be enabled.
+Max 2X MSAA quality value = 0.
+COM event handlers invoked successfully.
+CCC event: ParentWndProc -> WM_ASPECT_CHANGE
+CCC event: ParentWndProc -> WM_UPDATE_SETTINGS!
+CCPCCCComm::GetSettingsFromCOM() -> WARNING: (ASD setting) Unexpected COM value received.
+CCPCCCComm::GetSettingsFromCOM() -> Current Data via COM
+CCPCCCComm::GetSettingsFromCOM() -> AntiAliasing: 0
+CCPCCCComm::GetSettingsFromCOM() -> Anisotropy: 1
+CCPCCCComm::GetSettingsFromCOM() -> TemporalAA: 0
+CCPCCCComm::GetSettingsFromCOM() -> AdvancedAF: 0
+CCPCCCComm::GetSettingsFromCOM() -> CatAI: 1
+CCPCCCComm::GetSettingsFromCOM() -> MipmapDetail: 3
+CCPCCCComm::GetSettingsFromCOM() -> GeometryInstancing: 1
+CCPCCCComm::GetSettingsFromCOM() -> AdaptiveAA: 0
+CCPCCCComm::GetSettingsFromCOM() -> ASD: 1
+CCPCCCComm::GetSettingsFromCOM() -> ASE: 0
+COM event handlers invoked successfully.
+CCPCCCComm::GetSettingsFromCOM() -> WARNING: (ASD setting) Unexpected COM value received.
+CCPCCCComm::GetSettingsFromCOM() -> Requested Data via COM
+CCPCCCComm::GetSettingsFromCOM() -> AntiAliasing: 4
+CCPCCCComm::GetSettingsFromCOM() -> Anisotropy: 16
+CCPCCCComm::GetSettingsFromCOM() -> TemporalAA: 0
+CCPCCCComm::GetSettingsFromCOM() -> AdvancedAF: 0
+CCPCCCComm::GetSettingsFromCOM() -> CatAI: 1
+CCPCCCComm::GetSettingsFromCOM() -> MipmapDetail: 3
+CCPCCCComm::GetSettingsFromCOM() -> GeometryInstancing: 1
+CCPCCCComm::GetSettingsFromCOM() -> AdaptiveAA: 0
+CCPCCCComm::GetSettingsFromCOM() -> ASD: 1
+CCPCCCComm::GetSettingsFromCOM() -> ASE: 0
+4X MSAA enabled.
+Max 4X MSAA quality value = 0.
+COM event handlers invoked successfully.
+CCC event: ParentWndProc -> WM_ASPECT_CHANGE
+CCC event: ParentWndProc -> WM_UPDATE_SETTINGS!
+CCPCCCComm::GetSettingsFromCOM() -> WARNING: (ASD setting) Unexpected COM value received.
+CCPCCCComm::GetSettingsFromCOM() -> Current Data via COM
+CCPCCCComm::GetSettingsFromCOM() -> AntiAliasing: 0
+CCPCCCComm::GetSettingsFromCOM() -> Anisotropy: 1
+CCPCCCComm::GetSettingsFromCOM() -> TemporalAA: 0
+CCPCCCComm::GetSettingsFromCOM() -> AdvancedAF: 0
+CCPCCCComm::GetSettingsFromCOM() -> CatAI: 1
+CCPCCCComm::GetSettingsFromCOM() -> MipmapDetail: 3
+CCPCCCComm::GetSettingsFromCOM() -> GeometryInstancing: 1
+CCPCCCComm::GetSettingsFromCOM() -> AdaptiveAA: 0
+CCPCCCComm::GetSettingsFromCOM() -> ASD: 1
+CCPCCCComm::GetSettingsFromCOM() -> ASE: 0
+COM event handlers invoked successfully.
+CCPCCCComm::GetSettingsFromCOM() -> WARNING: (ASD setting) Unexpected COM value received.
+CCPCCCComm::GetSettingsFromCOM() -> Requested Data via COM
+CCPCCCComm::GetSettingsFromCOM() -> AntiAliasing: 2
+CCPCCCComm::GetSettingsFromCOM() -> Anisotropy: 8
+CCPCCCComm::GetSettingsFromCOM() -> TemporalAA: 0
+CCPCCCComm::GetSettingsFromCOM() -> AdvancedAF: 0
+CCPCCCComm::GetSettingsFromCOM() -> CatAI: 1
+CCPCCCComm::GetSettingsFromCOM() -> MipmapDetail: 3
+CCPCCCComm::GetSettingsFromCOM() -> GeometryInstancing: 1
+CCPCCCComm::GetSettingsFromCOM() -> AdaptiveAA: 0
+CCPCCCComm::GetSettingsFromCOM() -> ASD: 1
+CCPCCCComm::GetSettingsFromCOM() -> ASE: 0
+2X MSAA chosen to be enabled.
+Max 2X MSAA quality value = 0.
+COM event handlers invoked successfully.
+CCC event: ParentWndProc -> WM_ASPECT_CHANGE
+CCC event: ParentWndProc -> WM_UPDATE_SETTINGS!
+CCPCCCComm::GetSettingsFromCOM() -> WARNING: (ASD setting) Unexpected COM value received.
+CCPCCCComm::GetSettingsFromCOM() -> Current Data via COM
+CCPCCCComm::GetSettingsFromCOM() -> AntiAliasing: 0
+CCPCCCComm::GetSettingsFromCOM() -> Anisotropy: 1
+CCPCCCComm::GetSettingsFromCOM() -> TemporalAA: 0
+CCPCCCComm::GetSettingsFromCOM() -> AdvancedAF: 0
+CCPCCCComm::GetSettingsFromCOM() -> CatAI: 1
+CCPCCCComm::GetSettingsFromCOM() -> MipmapDetail: 3
+CCPCCCComm::GetSettingsFromCOM() -> GeometryInstancing: 1
+CCPCCCComm::GetSettingsFromCOM() -> AdaptiveAA: 0
+CCPCCCComm::GetSettingsFromCOM() -> ASD: 1
+CCPCCCComm::GetSettingsFromCOM() -> ASE: 0
+COM event handlers invoked successfully.
+CCPCCCComm::GetSettingsFromCOM() -> WARNING: (ASD setting) Unexpected COM value received.
+CCPCCCComm::GetSettingsFromCOM() -> Requested Data via COM
+CCPCCCComm::GetSettingsFromCOM() -> AntiAliasing: 4
+CCPCCCComm::GetSettingsFromCOM() -> Anisotropy: 16
+CCPCCCComm::GetSettingsFromCOM() -> TemporalAA: 0
+CCPCCCComm::GetSettingsFromCOM() -> AdvancedAF: 0
+CCPCCCComm::GetSettingsFromCOM() -> CatAI: 1
+CCPCCCComm::GetSettingsFromCOM() -> MipmapDetail: 3
+CCPCCCComm::GetSettingsFromCOM() -> GeometryInstancing: 1
+CCPCCCComm::GetSettingsFromCOM() -> AdaptiveAA: 0
+CCPCCCComm::GetSettingsFromCOM() -> ASD: 1
+CCPCCCComm::GetSettingsFromCOM() -> ASE: 0
+4X MSAA enabled.
+Max 4X MSAA quality value = 0.
+COM event handlers invoked successfully.
+CCC event: ParentWndProc -> WM_ASPECT_CHANGE
+CCC event: ParentWndProc -> WM_UPDATE_SETTINGS!
+CCPCCCComm::GetSettingsFromCOM() -> WARNING: (ASD setting) Unexpected COM value received.
+CCPCCCComm::GetSettingsFromCOM() -> Current Data via COM
+CCPCCCComm::GetSettingsFromCOM() -> AntiAliasing: 0
+CCPCCCComm::GetSettingsFromCOM() -> Anisotropy: 1
+CCPCCCComm::GetSettingsFromCOM() -> TemporalAA: 0
+CCPCCCComm::GetSettingsFromCOM() -> AdvancedAF: 0
+CCPCCCComm::GetSettingsFromCOM() -> CatAI: 1
+CCPCCCComm::GetSettingsFromCOM() -> MipmapDetail: 3
+CCPCCCComm::GetSettingsFromCOM() -> GeometryInstancing: 1
+CCPCCCComm::GetSettingsFromCOM() -> AdaptiveAA: 0
+CCPCCCComm::GetSettingsFromCOM() -> ASD: 1
+CCPCCCComm::GetSettingsFromCOM() -> ASE: 0
+COM event handlers invoked successfully.
+CCPCCCComm::GetSettingsFromCOM() -> WARNING: (ASD setting) Unexpected COM value received.
+CCPCCCComm::GetSettingsFromCOM() -> Requested Data via COM
+CCPCCCComm::GetSettingsFromCOM() -> AntiAliasing: 2
+CCPCCCComm::GetSettingsFromCOM() -> Anisotropy: 8
+CCPCCCComm::GetSettingsFromCOM() -> TemporalAA: 0
+CCPCCCComm::GetSettingsFromCOM() -> AdvancedAF: 0
+CCPCCCComm::GetSettingsFromCOM() -> CatAI: 1
+CCPCCCComm::GetSettingsFromCOM() -> MipmapDetail: 3
+CCPCCCComm::GetSettingsFromCOM() -> GeometryInstancing: 1
+CCPCCCComm::GetSettingsFromCOM() -> AdaptiveAA: 0
+CCPCCCComm::GetSettingsFromCOM() -> ASD: 1
+CCPCCCComm::GetSettingsFromCOM() -> ASE: 0
+2X MSAA chosen to be enabled.
+Max 2X MSAA quality value = 0.
+COM event handlers invoked successfully.
+CCC event: ParentWndProc -> WM_ASPECT_CHANGE
+CCC event: ParentWndProc -> WM_UPDATE_SETTINGS!
+CCPCCCComm::GetSettingsFromCOM() -> WARNING: (ASD setting) Unexpected COM value received.
+CCPCCCComm::GetSettingsFromCOM() -> Current Data via COM
+CCPCCCComm::GetSettingsFromCOM() -> AntiAliasing: 0
+CCPCCCComm::GetSettingsFromCOM() -> Anisotropy: 1
+CCPCCCComm::GetSettingsFromCOM() -> TemporalAA: 0
+CCPCCCComm::GetSettingsFromCOM() -> AdvancedAF: 0
+CCPCCCComm::GetSettingsFromCOM() -> CatAI: 1
+CCPCCCComm::GetSettingsFromCOM() -> MipmapDetail: 3
+CCPCCCComm::GetSettingsFromCOM() -> GeometryInstancing: 1
+CCPCCCComm::GetSettingsFromCOM() -> AdaptiveAA: 0
+CCPCCCComm::GetSettingsFromCOM() -> ASD: 1
+CCPCCCComm::GetSettingsFromCOM() -> ASE: 0
+COM event handlers invoked successfully.
+CCPCCCComm::GetSettingsFromCOM() -> WARNING: (ASD setting) Unexpected COM value received.
+CCPCCCComm::GetSettingsFromCOM() -> Requested Data via COM
+CCPCCCComm::GetSettingsFromCOM() -> AntiAliasing: 0
+CCPCCCComm::GetSettingsFromCOM() -> Anisotropy: 1
+CCPCCCComm::GetSettingsFromCOM() -> TemporalAA: 0
+CCPCCCComm::GetSettingsFromCOM() -> AdvancedAF: 0
+CCPCCCComm::GetSettingsFromCOM() -> CatAI: 1
+CCPCCCComm::GetSettingsFromCOM() -> MipmapDetail: 3
+CCPCCCComm::GetSettingsFromCOM() -> GeometryInstancing: 1
+CCPCCCComm::GetSettingsFromCOM() -> AdaptiveAA: 0
+CCPCCCComm::GetSettingsFromCOM() -> ASD: 1
+CCPCCCComm::GetSettingsFromCOM() -> ASE: 0
+MSAA chosen to be disabled.
+COM event handlers invoked successfully.
+CCC event: ParentWndProc -> WM_ASPECT_CHANGE
+CCC event: ParentWndProc -> WM_UPDATE_SETTINGS!
+CCPCCCComm::GetSettingsFromCOM() -> WARNING: (ASD setting) Unexpected COM value received.
+CCPCCCComm::GetSettingsFromCOM() -> Current Data via COM
+CCPCCCComm::GetSettingsFromCOM() -> AntiAliasing: 0
+CCPCCCComm::GetSettingsFromCOM() -> Anisotropy: 1
+CCPCCCComm::GetSettingsFromCOM() -> TemporalAA: 0
+CCPCCCComm::GetSettingsFromCOM() -> AdvancedAF: 0
+CCPCCCComm::GetSettingsFromCOM() -> CatAI: 1
+CCPCCCComm::GetSettingsFromCOM() -> MipmapDetail: 3
+CCPCCCComm::GetSettingsFromCOM() -> GeometryInstancing: 1
+CCPCCCComm::GetSettingsFromCOM() -> AdaptiveAA: 0
+CCPCCCComm::GetSettingsFromCOM() -> ASD: 1
+CCPCCCComm::GetSettingsFromCOM() -> ASE: 0
+COM event handlers invoked successfully.
+CCPCCCComm::GetSettingsFromCOM() -> WARNING: (ASD setting) Unexpected COM value received.
+CCPCCCComm::GetSettingsFromCOM() -> Requested Data via COM
+CCPCCCComm::GetSettingsFromCOM() -> AntiAliasing: 0
+CCPCCCComm::GetSettingsFromCOM() -> Anisotropy: 1
+CCPCCCComm::GetSettingsFromCOM() -> TemporalAA: 0
+CCPCCCComm::GetSettingsFromCOM() -> AdvancedAF: 0
+CCPCCCComm::GetSettingsFromCOM() -> CatAI: 1
+CCPCCCComm::GetSettingsFromCOM() -> MipmapDetail: 3
+CCPCCCComm::GetSettingsFromCOM() -> GeometryInstancing: 1
+CCPCCCComm::GetSettingsFromCOM() -> AdaptiveAA: 0
+CCPCCCComm::GetSettingsFromCOM() -> ASD: 1
+CCPCCCComm::GetSettingsFromCOM() -> ASE: 0
+COM event handlers invoked successfully.
+CCC event: ParentWndProc -> WM_ASPECT_CHANGE
+CCC event: ParentWndProc -> WM_UPDATE_SETTINGS!
+CCPCCCComm::GetSettingsFromCOM() -> WARNING: (ASD setting) Unexpected COM value received.
+CCPCCCComm::GetSettingsFromCOM() -> Current Data via COM
+CCPCCCComm::GetSettingsFromCOM() -> AntiAliasing: 0
+CCPCCCComm::GetSettingsFromCOM() -> Anisotropy: 1
+CCPCCCComm::GetSettingsFromCOM() -> TemporalAA: 0
+CCPCCCComm::GetSettingsFromCOM() -> AdvancedAF: 0
+CCPCCCComm::GetSettingsFromCOM() -> CatAI: 1
+CCPCCCComm::GetSettingsFromCOM() -> MipmapDetail: 3
+CCPCCCComm::GetSettingsFromCOM() -> GeometryInstancing: 1
+CCPCCCComm::GetSettingsFromCOM() -> AdaptiveAA: 0
+CCPCCCComm::GetSettingsFromCOM() -> ASD: 1
+CCPCCCComm::GetSettingsFromCOM() -> ASE: 0
+COM event handlers invoked successfully.
+CCPCCCComm::GetSettingsFromCOM() -> WARNING: (ASD setting) Unexpected COM value received.
+CCPCCCComm::GetSettingsFromCOM() -> Requested Data via COM
+CCPCCCComm::GetSettingsFromCOM() -> AntiAliasing: 0
+CCPCCCComm::GetSettingsFromCOM() -> Anisotropy: 1
+CCPCCCComm::GetSettingsFromCOM() -> TemporalAA: 0
+CCPCCCComm::GetSettingsFromCOM() -> AdvancedAF: 0
+CCPCCCComm::GetSettingsFromCOM() -> CatAI: 1
+CCPCCCComm::GetSettingsFromCOM() -> MipmapDetail: 3
+CCPCCCComm::GetSettingsFromCOM() -> GeometryInstancing: 1
+CCPCCCComm::GetSettingsFromCOM() -> AdaptiveAA: 0
+CCPCCCComm::GetSettingsFromCOM() -> ASD: 1
+CCPCCCComm::GetSettingsFromCOM() -> ASE: 0
+COM event handlers invoked successfully.
+CCC event: ParentWndProc -> WM_ASPECT_CHANGE
+CCC event: ParentWndProc -> WM_UPDATE_SETTINGS!
+CCPCCCComm::GetSettingsFromCOM() -> WARNING: (ASD setting) Unexpected COM value received.
+CCPCCCComm::GetSettingsFromCOM() -> Current Data via COM
+CCPCCCComm::GetSettingsFromCOM() -> AntiAliasing: 0
+CCPCCCComm::GetSettingsFromCOM() -> Anisotropy: 1
+CCPCCCComm::GetSettingsFromCOM() -> TemporalAA: 0
+CCPCCCComm::GetSettingsFromCOM() -> AdvancedAF: 0
+CCPCCCComm::GetSettingsFromCOM() -> CatAI: 1
+CCPCCCComm::GetSettingsFromCOM() -> MipmapDetail: 3
+CCPCCCComm::GetSettingsFromCOM() -> GeometryInstancing: 1
+CCPCCCComm::GetSettingsFromCOM() -> AdaptiveAA: 0
+CCPCCCComm::GetSettingsFromCOM() -> ASD: 1
+CCPCCCComm::GetSettingsFromCOM() -> ASE: 0
+COM event handlers invoked successfully.
+CCPCCCComm::GetSettingsFromCOM() -> WARNING: (ASD setting) Unexpected COM value received.
+CCPCCCComm::GetSettingsFromCOM() -> Requested Data via COM
+CCPCCCComm::GetSettingsFromCOM() -> AntiAliasing: 0
+CCPCCCComm::GetSettingsFromCOM() -> Anisotropy: 1
+CCPCCCComm::GetSettingsFromCOM() -> TemporalAA: 0
+CCPCCCComm::GetSettingsFromCOM() -> AdvancedAF: 0
+CCPCCCComm::GetSettingsFromCOM() -> CatAI: 1
+CCPCCCComm::GetSettingsFromCOM() -> MipmapDetail: 3
+CCPCCCComm::GetSettingsFromCOM() -> GeometryInstancing: 1
+CCPCCCComm::GetSettingsFromCOM() -> AdaptiveAA: 0
+CCPCCCComm::GetSettingsFromCOM() -> ASD: 1
+CCPCCCComm::GetSettingsFromCOM() -> ASE: 0
+COM event handlers invoked successfully.
+CCC event: ParentWndProc -> WM_ASPECT_CHANGE
+CCC event: ParentWndProc -> WM_UPDATE_SETTINGS!
+CCPCCCComm::GetSettingsFromCOM() -> WARNING: (ASD setting) Unexpected COM value received.
+CCPCCCComm::GetSettingsFromCOM() -> Current Data via COM
+CCPCCCComm::GetSettingsFromCOM() -> AntiAliasing: 0
+CCPCCCComm::GetSettingsFromCOM() -> Anisotropy: 1
+CCPCCCComm::GetSettingsFromCOM() -> TemporalAA: 0
+CCPCCCComm::GetSettingsFromCOM() -> AdvancedAF: 0
+CCPCCCComm::GetSettingsFromCOM() -> CatAI: 1
+CCPCCCComm::GetSettingsFromCOM() -> MipmapDetail: 3
+CCPCCCComm::GetSettingsFromCOM() -> GeometryInstancing: 1
+CCPCCCComm::GetSettingsFromCOM() -> AdaptiveAA: 0
+CCPCCCComm::GetSettingsFromCOM() -> ASD: 1
+CCPCCCComm::GetSettingsFromCOM() -> ASE: 0
+COM event handlers invoked successfully.
+CCPCCCComm::GetSettingsFromCOM() -> WARNING: (ASD setting) Unexpected COM value received.
+CCPCCCComm::GetSettingsFromCOM() -> Requested Data via COM
+CCPCCCComm::GetSettingsFromCOM() -> AntiAliasing: 0
+CCPCCCComm::GetSettingsFromCOM() -> Anisotropy: 1
+CCPCCCComm::GetSettingsFromCOM() -> TemporalAA: 0
+CCPCCCComm::GetSettingsFromCOM() -> AdvancedAF: 0
+CCPCCCComm::GetSettingsFromCOM() -> CatAI: 1
+CCPCCCComm::GetSettingsFromCOM() -> MipmapDetail: 3
+CCPCCCComm::GetSettingsFromCOM() -> GeometryInstancing: 1
+CCPCCCComm::GetSettingsFromCOM() -> AdaptiveAA: 0
+CCPCCCComm::GetSettingsFromCOM() -> ASD: 1
+CCPCCCComm::GetSettingsFromCOM() -> ASE: 0
+COM event handlers invoked successfully.
+CCC event: ParentWndProc -> WM_DESTROY/WM_CLOSE
+Shutting down...
+Destroying Left Window...
+CCC event: ChildWndProc -> WM_DESTROY/WM_CLOSE
+Left window - DestroyWindow() successful.
+Left window - UnregisterClass() successful.
+Destroying Right Window...
+CCC event: ChildWndProc -> WM_DESTROY/WM_CLOSE
+Right window - DestroyWindow() successful.
+Right window - UnregisterClass() successful.
+Destroying Parent Window...
+CCC event: ParentWndProc -> WM_DESTROY/WM_CLOSE
+Parent window - DestroyWindow() successful.
+Parent window - UnregisterClass() successful.
+Destroying D3D application...
+Mesh (final_mesh_binary_compressed.x) unloaded successfully.
+Effect (alpha_fence.fx) unloaded successfully.
+Effect (color_and_lightmap.fx) unloaded successfully.
+Effect (color_and_lightmap_and_normalmap.fx) unloaded successfully.
+Effect (sky.fx) unloaded successfully.
+Effect (water_and_reflection.fx) unloaded successfully.
+CCPScene shutdown succeeded.
+Mesh (final_mesh_binary_compressed.x) unloaded successfully.
+Effect (alpha_fence.fx) unloaded successfully.
+Effect (color_and_lightmap.fx) unloaded successfully.
+Effect (color_and_lightmap_and_normalmap.fx) unloaded successfully.
+Effect (sky.fx) unloaded successfully.
+Effect (water_and_reflection.fx) unloaded successfully.
+CCPScene shutdown succeeded.
+...shut down successful.
+Closing the log.

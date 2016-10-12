@@ -1,0 +1,2 @@
+Для корректного отображения кириллицы необходимо заменить файл библиотеки LCDALPHA.DLL в папке MODELS. Вот сюда
+C:\Program Files\Labcenter Electronics\Proteus 7 Professional\MODELS 
